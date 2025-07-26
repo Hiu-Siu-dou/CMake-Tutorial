@@ -1,1 +1,5 @@
 *.rst
+
+*_build
+
+.vscode
